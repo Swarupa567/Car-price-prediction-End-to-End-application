@@ -13,3 +13,6 @@ Tools/Technologies used:
 
 Output:
 
+![Image](https://github.com/Swarupa567/Car-price-prediction-End-to-End-application/blob/main/demo1.PNG)
+
+![Image](https://github.com/Swarupa567/Car-price-prediction-End-to-End-application/blob/main/demo%202.PNG)
