@@ -4,8 +4,12 @@ In this project,we predict the car price based on the car model,year and number 
 
 Tools/Technologies used:
 1.Jupyter Notebook
+
 2.Python (pandas and NumPy)
+
 3.Flask
+
 4.Linear Regression
 
 Output:
+
